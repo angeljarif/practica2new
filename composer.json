@@ -1,0 +1,21 @@
+{
+    "name": "dompdf/dompdf",
+    "description": "instalaciondependencias",
+    "type": "project",
+    "require": {
+        "dompdf/dompdf": "dev-master"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dompdf\\Dompdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Angel",
+            "email": "angel_jarif_4545@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
